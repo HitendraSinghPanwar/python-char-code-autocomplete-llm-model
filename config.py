@@ -1,6 +1,6 @@
 import torch
 
-FILE_PATH = "C:\\Users\\thaku\\Downloads\\conala-paired-train.json"
+FILE_PATH = "conala-paired-train.json"
 MODEL_SAVE_PATH = "char_autocomplete_model.pth"
 MAPPING_SAVE_PATH = "char_mappings.json"
 
