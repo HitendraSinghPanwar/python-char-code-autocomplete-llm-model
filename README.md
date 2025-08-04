@@ -93,8 +93,3 @@ BATCH_SIZE = 128       # Training batch size
 - Inspired by **char-RNN** by Andrej Karpathy.
 - Dataset: [CoNaLa Challenge](https://conala-corpus.github.io/)
 
----
-
-## Author
-**Hitendra Singh Panwar**  
-[GitHub Profile](https://github.com/HitendraSinghPanwar)
